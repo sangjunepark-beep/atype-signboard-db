@@ -4,7 +4,8 @@
 
 ## 파일
 
-- `A형입간판_시안DB.xlsx` — 전체 시안 DB (6컬럼)
+- `atype-signboard-db.xlsx` — 전체 시안 DB (6컬럼)
+- [다운로드 링크](https://github.com/sangjunepark-beep/atype-signboard-db/raw/main/atype-signboard-db.xlsx)
 
 ## 컬럼 구성
 
